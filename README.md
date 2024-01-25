@@ -16,7 +16,8 @@ Ideal:
 
 Junta só aquilo que é útil nos mesmos apps. Tags não é algo necessário.
 
-![image](https://github.com/joaogdfaero/storefront/assets/103076610/c58a9fb8-8779-4d6a-871d-71e5e5ca9488)
+![image](https://github.com/joaogdfaero/storefront/assets/103076610/e7f3cb75-38e9-4d48-ab61-f437aa72d747)
+
 
 
 
