@@ -8,7 +8,8 @@ Monolith:
 Unix philosophy:
 DO one thing and do it well.
 
-![Uploading image.png…]()
+![image](https://github.com/joaogdfaero/storefront/assets/103076610/5d509d85-39d8-4f88-9894-3a8d6ea7ce4f)
+
 
 
 
